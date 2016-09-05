@@ -60,10 +60,6 @@ namespace appp
             var slctd = navBarGroup2.SelectedLink.Caption;
             stdsGroupText.Caption = slctd;
         }
-
-        private void dockPanel1_Click(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }

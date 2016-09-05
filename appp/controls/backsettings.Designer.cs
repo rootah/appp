@@ -116,6 +116,7 @@
             // 
             // headerCheck
             // 
+            this.headerCheck.Enabled = false;
             this.headerCheck.Location = new System.Drawing.Point(22, 22);
             this.headerCheck.Name = "headerCheck";
             this.headerCheck.Properties.Caption = "display headers";
